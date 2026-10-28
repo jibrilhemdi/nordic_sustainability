@@ -1,0 +1,12 @@
+.env
+.venv
+.env.*
+!.env.example
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Documents
+AI Associate_Case study.pdf
+Task B.docx
